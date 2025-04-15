@@ -24,3 +24,5 @@ Thumbs.db
 *~
 *.swp
 *.bak
+.DS_Store
+multithreading/build/
