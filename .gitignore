@@ -1,0 +1,26 @@
+# Ignore build outputs
+build/
+*.o
+*.out
+*.exe
+
+# Ignore TPCH data files
+tpchdata/
+*.tbl
+*.csv
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# VS Code workspace files
+.vscode/
+
+# Logs or temporary files
+*.log
+*.tmp
+
+# Backup or swap files
+*~
+*.swp
+*.bak
